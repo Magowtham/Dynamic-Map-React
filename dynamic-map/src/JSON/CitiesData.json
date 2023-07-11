@@ -1,0 +1,22 @@
+{
+  "city1": {
+    "city": "Moodbidri",
+    "latitude": "13.0688",
+    "longitude": "74.9936"
+  },
+  "city2": {
+    "city": "Manglore",
+    "latitude": "12.9141",
+    "longitude": "74.8560"
+  },
+  "city3": {
+    "city": "Shimoga",
+    "latitude": "13.9299",
+    "longitude": "75.5681"
+  },
+  "city4": {
+    "city": "Konandur",
+    "latitude": "13.0688",
+    "longitude": " 75.2440"
+  }
+}
